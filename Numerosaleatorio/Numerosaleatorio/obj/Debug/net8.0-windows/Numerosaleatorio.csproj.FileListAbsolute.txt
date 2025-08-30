@@ -1,0 +1,16 @@
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\bin\Debug\net8.0-windows\Numerosaleatorio.exe
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\bin\Debug\net8.0-windows\Numerosaleatorio.deps.json
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\bin\Debug\net8.0-windows\Numerosaleatorio.runtimeconfig.json
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\bin\Debug\net8.0-windows\Numerosaleatorio.dll
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\bin\Debug\net8.0-windows\Numerosaleatorio.pdb
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.frmEmpleados.resources
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.csproj.GenerateResource.cache
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.AssemblyInfoInputs.cache
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.AssemblyInfo.cs
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.csproj.CoreCompileInputs.cache
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.dll
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\refint\Numerosaleatorio.dll
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.pdb
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\Numerosaleatorio.genruntimeconfig.cache
+C:\Proyectos\EDAT\Numerosaleatorio\Numerosaleatorio\obj\Debug\net8.0-windows\ref\Numerosaleatorio.dll
